@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="backgroundLight">#FFFFFF</color>  <!-- Light Background (White) -->
+    <color name="textLight">#000000</color>       <!-- Light Text (Black) -->
+
+    <color name="backgroundDark">#121212</color>  <!-- Dark Background -->
+    <color name="textDark">#FFFFFF</color>        <!-- Dark Text (White) -->
+</resources>
