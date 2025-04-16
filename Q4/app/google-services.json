@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "322470262243",
+    "project_id": "mad-q4",
+    "storage_bucket": "mad-q4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:322470262243:android:0523c0847b714834f49cd6",
+        "android_client_info": {
+          "package_name": "com.example.q4_googlelogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "322470262243-gel6sumlpkgdme8tsqss8i4bqu9u37oj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNh_Ri8-poLqyrsm9jwavSmmqD2q_B2kk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "322470262243-gel6sumlpkgdme8tsqss8i4bqu9u37oj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
