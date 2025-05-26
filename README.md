@@ -1,4 +1,4 @@
-# Mobile_Application_Project
+# Mobile_Application_Project for sem 4
 ![App Screenshot](https://github.com/user-attachments/assets/2f644b7f-d98c-4165-a579-2b9f7a847d8e))
 
 A simple and elegant mobile application question was done as part of a course assignment. These demonstrate key mobile development concepts such as navigation, state management, Google login, unit_convertor, etc.
